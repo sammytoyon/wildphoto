@@ -7,4 +7,4 @@ Run analysis
 Make table
 make header bold
 
-Make small fig
+Make small fig, red line
